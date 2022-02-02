@@ -1,3 +1,3 @@
-# Hello-World
+# Hello-My friend
 My first repository on GitHub
-Hello baby johnson hello hello hello
+Hello baby johnson
